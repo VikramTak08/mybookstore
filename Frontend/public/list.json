@@ -1,0 +1,107 @@
+[
+    {
+        "id": "1",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "2",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "3",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "4",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "5",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "6",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "Free",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "7",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "8",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "9",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "Free",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "10",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "11",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 20,
+        "category": "Free",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "12",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "New",
+        "image": "bookimage.jpg"
+      },
+      {
+        "id": "13",
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "category": "Free",
+        "image": "bookimage.jpg"
+      }
+
+]
